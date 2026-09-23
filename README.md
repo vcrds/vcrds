@@ -6,7 +6,7 @@ A Full-Stack & Mobile Developer by day ☼ and a backend enthusiast by night ☾
 - 🌍 I'm mostly focused on Web, Mobile, and Backend development;
 - ⚙️ I use daily: `.js`, `.dart`, `ReactJS`, `Flutter`, `Node.js`, `Docker`;
 - 💬 Ping me about Flutter, React, Node.js, backend architecture, APIs, and Docker;
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinicdev/) | [Email](mailto:vinic8670@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vcrds/) | [Email](mailto:vinic8670@gmail.com)
 
 ---
 
